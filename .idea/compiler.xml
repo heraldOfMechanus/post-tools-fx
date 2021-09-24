@@ -9,5 +9,8 @@
         <module name="post-tools-fx" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="post-tools-fx" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
